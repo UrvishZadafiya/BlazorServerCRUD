@@ -1,0 +1,152 @@
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\appsettings.Development.json
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\appsettings.json
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.staticwebassets.runtime.json
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.exe
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.deps.json
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.runtimeconfig.json
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.pdb
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Azure.Core.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Azure.Identity.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Humanizer.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\System.CodeDom.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Demo\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.csproj.AssemblyReference.cache
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.AssemblyInfoInputs.cache
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.AssemblyInfo.cs
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.csproj.CoreCompileInputs.cache
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.RazorAssemblyInfo.cache
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.RazorAssemblyInfo.cs
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerCRUD.props
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerCRUD.props
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerCRUD.props
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets.build.json
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets.development.json
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\scopedcss\bundle\BlazorServerCRUD.styles.css
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\scopedcss\projectbundle\BlazorServerCRUD.bundle.scp.css
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.csproj.CopyComplete
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.dll
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\refint\BlazorServerCRUD.dll
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.pdb
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.genruntimeconfig.cache
+D:\Demo\BlazorServerCRUD\obj\Debug\net7.0\ref\BlazorServerCRUD.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\appsettings.Development.json
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\appsettings.json
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.staticwebassets.runtime.json
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.exe
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.deps.json
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.runtimeconfig.json
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\BlazorServerCRUD.pdb
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Azure.Core.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Azure.Identity.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Humanizer.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\System.CodeDom.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.csproj.AssemblyReference.cache
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.AssemblyInfoInputs.cache
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.AssemblyInfo.cs
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.csproj.CoreCompileInputs.cache
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.RazorAssemblyInfo.cache
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.RazorAssemblyInfo.cs
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerCRUD.props
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerCRUD.props
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerCRUD.props
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets.build.json
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\staticwebassets.development.json
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\scopedcss\bundle\BlazorServerCRUD.styles.css
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\scopedcss\projectbundle\BlazorServerCRUD.bundle.scp.css
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.csproj.CopyComplete
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\refint\BlazorServerCRUD.dll
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.pdb
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\BlazorServerCRUD.genruntimeconfig.cache
+D:\Urvish\Project\Demo Project\BlazorServerCRUD\obj\Debug\net7.0\ref\BlazorServerCRUD.dll
